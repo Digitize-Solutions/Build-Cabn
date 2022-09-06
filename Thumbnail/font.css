@@ -2,3 +2,8 @@
   font-family: 'NowFont';
   src: url(https://digitize-solutions.github.io/Build-Cabn/Thumbnail/NowRegular.otf) format('opentype');
 }
+
+@font-face {
+  font-family: 'NowFontThin';
+  src: url(https://digitize-solutions.github.io/Build-Cabn/Thumbnail/nowalt-thin.otf) format('opentype');
+}
